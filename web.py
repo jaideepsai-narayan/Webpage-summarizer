@@ -38,5 +38,4 @@ def out(urls):
         # streamer=streamer
     )
     out=llm.invoke(prompt.format(context=doc))
-    # print("hi alekhya: ",out)
     return out
