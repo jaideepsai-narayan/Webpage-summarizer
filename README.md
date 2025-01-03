@@ -1,6 +1,6 @@
 ## Webpage-summarizer:
 - **Description:** 
--need to add
+Chrome extension delivers concise and accurate summaries of webpages. Whether you're reading articles, research papers, or long reports, this extension helps you save time by providing the key points at a glance.
 
 ## Verified Environment:
 [Intel® Tiber™ AI Cloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/services.html)
