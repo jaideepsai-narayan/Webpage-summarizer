@@ -10,6 +10,10 @@ Chrome extension delivers concise and accurate summaries of webpages. Whether yo
 [Intel® Data Center GPU Max Series](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/max-series.html)
 
 ### Environment Setup:
+Click on Extensions-->Manage extensions-->Load Unpacked.
+Here just open the repository that you cloned. So you can see the extension has been added as shown below.
+![image](https://github.com/user-attachments/assets/11d4c239-5b79-4610-994a-541ed64f6728)
+
 
 
 
