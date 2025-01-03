@@ -14,6 +14,13 @@ Click on Extensions-->Manage extensions-->Load Unpacked.
 Here just open the repository that you cloned. So you can see the extension has been added as shown below.
 ![image](https://github.com/user-attachments/assets/11d4c239-5b79-4610-994a-541ed64f6728)
 
+## Running:
+Just run server.py file to launch flask.
+```
+python server.py
+```
+Now open chrome and click on URL Sender Extension and click on Send URL button.
+
 
 
 
